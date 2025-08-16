@@ -1,0 +1,14 @@
+# Core dependencies for machine learning predictive model
+numpy==1.23.5
+scikit-learn==1.3.2
+optuna
+joblib
+
+# Additional commonly needed packages for Colab notebooks
+pandas
+matplotlib
+seaborn
+
+# For Jupyter notebook compatibility
+jupyter
+ipykernel
